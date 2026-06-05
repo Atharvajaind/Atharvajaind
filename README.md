@@ -1,10 +1,19 @@
 # Hi, I'm Atharva Jaind 👋
 
-☁️ Cloud Computing Enthusiast | AWS & DevOps Practitioner | MCA (Artificial Intelligence & Data Science)
+🚀 MCA Student in Artificial Intelligence & Data Science | BCA Graduate in Cloud Computing
 
-Passionate about designing scalable cloud solutions, automating infrastructure, and building modern applications. With a strong foundation in Cloud Computing and hands-on experience with AWS services, containerization, orchestration, and cloud-native technologies, I enjoy solving real-world problems through technology.
+I am an MCA student specializing in Artificial Intelligence and Data Science with a strong academic foundation in Artificial Intelligence, Deep Learning, Computer Vision, and Big Data Analytics. Alongside my AI journey, I am deeply passionate about Cloud Computing, DevOps, and modern infrastructure technologies.
 
-## 🚀 Technical Skills
+My background in Cloud Computing has provided me with hands-on experience in AWS Cloud Services, Linux, Docker, Kubernetes, CloudFormation, EC2, VPC, Lambda, RDS, Git, and GitHub. I enjoy combining cloud technologies with AI-driven solutions to build scalable, efficient, and impactful applications.
+
+💻 Areas of Interest
+Artificial Intelligence & Machine Learning
+Deep Learning & Computer Vision
+Big Data Analytics
+Cloud Computing & Cloud Architecture
+AWS Cloud Services
+DevOps & Automation
+Containerization & Orchestration
 
 ### Cloud Platforms
 
